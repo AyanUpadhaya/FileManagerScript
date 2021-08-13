@@ -1,0 +1,13 @@
+steps:
+
+1. Import os and shutill module
+
+1.5 Create folders for category 
+
+2. Set source directory and set folders directory
+
+3. Look for files in current directory
+
+4. Create several file format list
+
+5. Get file extensions and move them to destination , Ignore 'app.py' file
